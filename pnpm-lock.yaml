@@ -9,17 +9,17 @@ importers:
   .:
     dependencies:
       '@silo-storage/sdk-core':
-        specifier: ^0.2.2
-        version: 0.2.2
+        specifier: ^0.2.3
+        version: 0.2.3
       '@silo-storage/sdk-next':
-        specifier: ^0.2.2
-        version: 0.2.2(next@16.1.6(@babel/core@7.29.0)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))
+        specifier: ^0.2.3
+        version: 0.2.3(next@16.1.6(@babel/core@7.29.0)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))
       '@silo-storage/sdk-react':
-        specifier: ^0.2.2
-        version: 0.2.2(react@19.2.3)
+        specifier: ^0.2.3
+        version: 0.2.3(react@19.2.3)
       '@silo-storage/sdk-server':
-        specifier: ^0.2.2
-        version: 0.2.2
+        specifier: ^0.2.3
+        version: 0.2.3
       next:
         specifier: 16.1.6
         version: 16.1.6(@babel/core@7.29.0)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
@@ -427,27 +427,27 @@ packages:
   '@rtsao/scc@1.1.0':
     resolution: {integrity: sha512-zt6OdqaDoOnJ1ZYsCYGt9YmWzDXl4vQdKTyJev62gFhRGKdx7mcT54V9KIjg+d2wi9EXsPvAPKe7i7WjfVWB8g==}
 
-  '@silo-storage/mime-types@0.2.2':
-    resolution: {integrity: sha512-0rOkrA0w/OuyKStJwIj411fZhMIl9xQXvMHJDb/ZmNkVkb4WEcdd5zBvcCHmcs7BgcMp8rEAV3kyRI2ty+5hVg==}
+  '@silo-storage/mime-types@0.2.3':
+    resolution: {integrity: sha512-XtoqUno0SoGxP5VX/xQzhjOo2WR1y5NO6mGlOEOBUnZ5Bs29IgfXaLJzejBCmaJ9njdwBB8a6ik+ysMdBtLX7Q==}
 
-  '@silo-storage/sdk-core@0.2.2':
-    resolution: {integrity: sha512-E9NMQUrCutO+ZiyT6nz0g3xylcPWr9TRYlpsxJnmhsu88Pil6xqUllpOdUoiXR26gf75aKV45veB4Qh74Q+P1A==}
+  '@silo-storage/sdk-core@0.2.3':
+    resolution: {integrity: sha512-J89Ym4l1Q2U6JuD+dJu6pqi6kHCo/lBbR1bGPmWOZR7tMMIYhHwel+TheyTCNzNAAQ5b3zIags277slkDcklMw==}
 
-  '@silo-storage/sdk-next@0.2.2':
-    resolution: {integrity: sha512-ptB22NEz6WHdvyUt8uxjz7v5ks+F+aSuUSBXX00es1ODJIuDnvuUtJMsH+gDvmYaXS8wskOuMIK6kHSR3Bq3aA==}
+  '@silo-storage/sdk-next@0.2.3':
+    resolution: {integrity: sha512-clHVudQ6a6dbJZ+dtjlQ05JxdVhgweXtchgDBfZzN4jZrFumuqOBuVk/oYXW/wQPV3X3+vEnXtGXIxyPcPXrEA==}
     peerDependencies:
       next: '>=14.0.0'
 
-  '@silo-storage/sdk-react@0.2.2':
-    resolution: {integrity: sha512-WFbtT8f9ifGxj+J6DCDJ7HepOeOyWKRpojLrDXZ015VJaWP7vUaK9UxzXvA7sfbDrdteKa4NzRiV777JFjIAtA==}
+  '@silo-storage/sdk-react@0.2.3':
+    resolution: {integrity: sha512-7BUY54oC2BYetkRPDDvUO42pgsoZRFfxXtg52ECxTJj7bW/X06b61I+zeIU7TqgwlWkSCDXHlHeQNR8FOp7Rgg==}
     peerDependencies:
       react: '>=18.2.0'
 
-  '@silo-storage/sdk-server@0.2.2':
-    resolution: {integrity: sha512-inBwiExmeskHxTwR5ee08YCTXlcxfhJTUGbSwyBHZw/UhRKjFeh1HENz5CbOtnYjfu8hN+kMzxz+ufND2KHJDg==}
+  '@silo-storage/sdk-server@0.2.3':
+    resolution: {integrity: sha512-rvx+UPWmxJVD5nit9/srIMn4mb8GUTN2eFHRsd0HW43MNksxihXxp2PihCv1oVSedZaGQvaJb0PvFZiJM0lt6A==}
 
-  '@silo-storage/shared@0.2.2':
-    resolution: {integrity: sha512-mIrcCxyw+PjaCs4loo85NjSh3a4apneACSoJCbpNaGhmAWucnRAqkzp/rtsYvbEZfksU2zjSjEtdPe26zPoTHA==}
+  '@silo-storage/shared@0.2.3':
+    resolution: {integrity: sha512-ahgCips1inwh3sWZTG6M6h8rS7oqin3X5NjgM8gia490WbzZRZ1ekyNGhK4eBsYHvP1OywK9sPIvKOU0pyq37w==}
 
   '@standard-schema/spec@1.1.0':
     resolution: {integrity: sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w==}
@@ -2381,34 +2381,34 @@ snapshots:
 
   '@rtsao/scc@1.1.0': {}
 
-  '@silo-storage/mime-types@0.2.2': {}
+  '@silo-storage/mime-types@0.2.3': {}
 
-  '@silo-storage/sdk-core@0.2.2':
+  '@silo-storage/sdk-core@0.2.3':
     dependencies:
-      '@silo-storage/shared': 0.2.2
+      '@silo-storage/shared': 0.2.3
       nanoid: 5.1.9
       zod: 4.3.6
 
-  '@silo-storage/sdk-next@0.2.2(next@16.1.6(@babel/core@7.29.0)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))':
+  '@silo-storage/sdk-next@0.2.3(next@16.1.6(@babel/core@7.29.0)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))':
     dependencies:
-      '@silo-storage/sdk-server': 0.2.2
+      '@silo-storage/sdk-server': 0.2.3
       next: 16.1.6(@babel/core@7.29.0)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
 
-  '@silo-storage/sdk-react@0.2.2(react@19.2.3)':
+  '@silo-storage/sdk-react@0.2.3(react@19.2.3)':
     dependencies:
-      '@silo-storage/mime-types': 0.2.2
+      '@silo-storage/mime-types': 0.2.3
       react: 19.2.3
       tus-js-client: 4.3.1
 
-  '@silo-storage/sdk-server@0.2.2':
+  '@silo-storage/sdk-server@0.2.3':
     dependencies:
-      '@silo-storage/mime-types': 0.2.2
-      '@silo-storage/sdk-core': 0.2.2
+      '@silo-storage/mime-types': 0.2.3
+      '@silo-storage/sdk-core': 0.2.3
       '@standard-schema/spec': 1.1.0
       ms: 3.0.0-canary.202508261828
       zod: 4.3.6
 
-  '@silo-storage/shared@0.2.2': {}
+  '@silo-storage/shared@0.2.3': {}
 
   '@standard-schema/spec@1.1.0': {}
 

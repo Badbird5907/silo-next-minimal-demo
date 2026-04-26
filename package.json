@@ -9,10 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@silo-storage/sdk-core": "^0.2.2",
-    "@silo-storage/sdk-next": "^0.2.2",
-    "@silo-storage/sdk-react": "^0.2.2",
-    "@silo-storage/sdk-server": "^0.2.2",
+    "@silo-storage/sdk-core": "^0.2.3",
+    "@silo-storage/sdk-next": "^0.2.3",
+    "@silo-storage/sdk-react": "^0.2.3",
+    "@silo-storage/sdk-server": "^0.2.3",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3",
