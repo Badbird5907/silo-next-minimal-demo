@@ -15,6 +15,7 @@ export function UploadClient() {
 
   const upload = useUpload({
     endpoint: "imageUploader",
+    accept: "image/jpeg, image/png",
     onComplete: (results) => {
       setLastError(null);
       console.log(results);
